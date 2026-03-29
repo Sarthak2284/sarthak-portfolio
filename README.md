@@ -10,8 +10,18 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 - Clean UI structure
 - Sections: About, Skills, Projects, Contact
 
+## 🔄 Work
+This project is being built on a daily basis as a part of 90 Days Web Devlopment Plan.
+I'll be adding new features, styles and responsiveness on a continuous basis.
+
 ## 🌐 Live Demo
 Coming soon
 
-## 📌 Status
-Work in progress — actively improving daily
+## 🔥 Progress
+- Day 1: Project setup + HTML structure
+
+## 📸 Preview
+Will be adding Screenshots as result after improving the UI.
+  
+
+
